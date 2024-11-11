@@ -1,1 +1,2 @@
 # suumo-scraper
+SUUMOからデータをスクレイピングし、Googleスプレッドシートに物件情報を書き込むGAS
